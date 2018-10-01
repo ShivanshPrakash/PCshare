@@ -1,1 +1,1 @@
-# PCshare
+A platform to send text messages between an android app and a windows PC using IP addressing. The devices can be connected over a wifi or LAN network. There is also a functionality to lock or shut down the windows PC using the android app.
