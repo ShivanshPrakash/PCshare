@@ -1,0 +1,8 @@
+﻿  Live_Server.cpp
+F:\c&c++ programs\network-programming\Live_Server.cpp(91): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  1 of 88 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  server.vcxproj -> E:\VC++Projects\socket-programming\server\Release\server.exe
